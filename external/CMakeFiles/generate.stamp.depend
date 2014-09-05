@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+E:/visual studio 2012/Projects/OpenGL-tutorial_v0014_33/external/CMakeLists.txt
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CheckIncludeFile.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CheckTypeSize.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CheckIncludeFile.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CheckFunctionExists.cmake

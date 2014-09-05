@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\CMakeLists.txt" />
+    <CustomBuild Include="CMakeFiles\7acb7873204251fbecb7ada2a6fd2680\ALL_BUILD.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CMakeFiles\ALL_BUILD" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{12D89E51-0854-4AFF-B154-4D464E739439}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

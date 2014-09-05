@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\tutorial07_model_loading\tutorial07.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\common\controls.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\common\texture.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\common\objloader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\common\controls.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\common\texture.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\common\objloader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\tutorial07_model_loading\TransformVertexShader.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="E:\visual studio 2012\Projects\OpenGL-tutorial_v0014_33\tutorial07_model_loading\TextureFragmentShader.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1A6546ED-6984-469A-B35C-A040DE1D82A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{9DC6AAFF-A247-4DCD-B8BD-3792692B11E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{B34AC871-22A7-40D1-823E-BB08F3EC5F8A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,21 @@
+# CMake generation dependency list for this directory.
+E:/visual studio 2012/Projects/OpenGL-tutorial_v0014_33/external/glfw-3.0.3/CMakeLists.txt
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindOpenGL.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageMessage.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeParseArguments.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindThreads.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CheckIncludeFiles.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CheckLibraryExists.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CheckSymbolExists.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageMessage.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeParseArguments.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindDoxygen.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindPackageMessage.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeParseArguments.cmake
+E:/visual studio 2012/Projects/OpenGL-tutorial_v0014_33/external/glfw-3.0.3/docs/Doxyfile.in
+E:/visual studio 2012/Projects/OpenGL-tutorial_v0014_33/external/glfw-3.0.3/src/config.h.in
+E:/visual studio 2012/Projects/OpenGL-tutorial_v0014_33/external/glfw-3.0.3/src/glfwConfig.cmake.in
+E:/visual studio 2012/Projects/OpenGL-tutorial_v0014_33/external/glfw-3.0.3/src/glfwConfigVersion.cmake.in
