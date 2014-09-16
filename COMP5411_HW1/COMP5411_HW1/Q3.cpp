@@ -1,5 +1,5 @@
 #include <GL/glut.h>
-
+#include <cstdio>
 
 void myDraw();
 void myReshape(int w, int h);
